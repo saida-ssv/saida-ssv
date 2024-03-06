@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm sk saida vali</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saida-ssv&label=Profile%20views&color=0e75b6&style=flat" alt="saida-ssv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saida-ssv&label=Profile%20views&color=06639d&style=plastic" alt="saida-ssv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saida-ssv" alt="saida-ssv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/saida_vali_sk" target="blank"><img src="https://img.shields.io/twitter/follow/saida_vali_sk?logo=twitter&style=for-the-badge" alt="saida_vali_sk" /></a> </p>
 
+- 💬 Ask me about **CYBER ANALYST 😘 💚 DHMF | @urstrulymahesh | Try Something New 🤯 One Day My Dream Come True | 🗣 |**
+
+- 📫 How to reach me **urstrulysaida@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/saida-ssv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saida-ssv" height="30" width="40" /></a>
 <a href="https://twitter.com/saida_vali_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saida_vali_sk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaik-saidaval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-saidaval" height="30" width="40" /></a>
 <a href="https://instagram.com/saida.vali_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saida.vali_sk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/saida.vali_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saida.vali_sk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_yasuf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_yasuf_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saidavali_ssv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saidavali_ssv/" height="30" width="40" /></a>
 </p>
@@ -21,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saida-ssv&show_icons=true&locale=en&layout=compact" alt="saida-ssv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saida-ssv&show_icons=true&locale=en" alt="saida-ssv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saida-ssv&show_icons=true&hide_border=true&locale=en" alt="saida-ssv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saida-ssv&" alt="saida-ssv" /></p>
